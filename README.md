@@ -3,7 +3,7 @@ A simple template for developing a GUI application with Rust and [iced](https://
 
 Uses `iced::application::Application`
 ## Usage:
-```bash
+```shell
 cargo generate --git gh:Theboiboi8/iced_template.git --name <name>
 ```
 
